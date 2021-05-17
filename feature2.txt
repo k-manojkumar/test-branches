@@ -1,1 +1,2 @@
 Creating feature2 for application
+feature2 fix
