@@ -1,1 +1,2 @@
 Creating feature1 for application
+feature1 bug
